@@ -15,6 +15,7 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
+    "@radix-ui/colors": "^3.0.0-rc.4",
     "pinia": "^2.1.6",
     "radix-ui": "^1.0.1",
     "radix-vue": "^0.2.2",
